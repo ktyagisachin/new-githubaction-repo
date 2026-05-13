@@ -31,3 +31,8 @@ resource "azurerm_resource_group" "rg--new-actio4n" {
      name     = "nw-rg-gitaction4"
      location = "eastus"
  }
+resource "azurerm_resource_group" "rg--new-action5" {
+
+     name     = "nw-rg-gitaction5"
+     location = "eastus"
+ }
